@@ -2,7 +2,7 @@
 ### Breast Cancer Risk Assessment System  
 
 🔗 **Live Demo:**  
-https://breast-cancer-oncoscangit.streamlit.app  
+[https://breast-cancer-oncoscangit.streamlit.app](https://breast-cancer-oncoscan.streamlit.app/)  
 
 An AI-powered clinical decision support tool for breast cancer malignancy prediction.
 
